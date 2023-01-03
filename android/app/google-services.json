@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1097388246226",
+    "firebase_url": "https://healthstone-app.firebaseio.com",
+    "project_id": "healthstone-app",
+    "storage_bucket": "healthstone-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097388246226:android:66705f6dead3baff4a190b",
+        "android_client_info": {
+          "package_name": "com.healthstone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097388246226-om0ij2g31pl8t0jaa9cg2s326n5l3p91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDewhaz81Kpue3MxbkOw291PqQaLmYFs9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097388246226-om0ij2g31pl8t0jaa9cg2s326n5l3p91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

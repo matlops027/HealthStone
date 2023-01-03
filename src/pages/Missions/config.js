@@ -1,0 +1,2 @@
+export const objProfileInfo = { CURHP: '0', CURXP: '0', COIN: '0', ACHIEV: '', CURLEVEL: 0, STATUS: 0 };
+export const arAchievements = ['TOPTYPE', 'HAIRCOLO', 'HATCOLO', 'FACHAITY', 'FACHAICO', 'ACCETYPE', 'CLOTTYPE', 'CLOTCOLO', 'GRAPTYPE', 'EYETYPE', 'EYEBTYPE', 'MOUNTYPE', 'SKINCOLO'];
